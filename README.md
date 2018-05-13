@@ -1,0 +1,1 @@
+As part of Web Analytics project, this repository contains all the documented activity of the team and results achieved at the end of a five-week brand promotion campaign on Google and Facebook platform.
